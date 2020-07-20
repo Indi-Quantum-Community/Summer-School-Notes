@@ -9,3 +9,10 @@ Also it will serve as comprehensive set of Summer School Notes. You will also le
 - **DO NOT PUT SOLUTIONS TO PROBLEMS**
 - Further Intructions and wiki will be added after the School begins.
 
+## Also 
+- You can invite your friends (from the IQSS discord)
+- Create your own PUBLIC and PRIVATE repositories (Please use sensible names like `[USRNAME]-Notebooks` )
+- Add contribute to the other existing public repos.
+- Edit Wiki
+- Raise Issues
+- Suggest changes
